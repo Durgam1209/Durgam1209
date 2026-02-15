@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Anything 
 - 📫 How to reach me ... durga.m1209@gmail.com
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...Cows have best friends and get stressed when separated :)
+- ⚡ Fun fact: ..."Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
 
 <!---
 Durgam1209/Durgam1209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
