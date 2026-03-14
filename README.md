@@ -1,6 +1,6 @@
 # Hi there, I'm Durgam1209! 👋
 
-### 🚀 Aspiring ML Engineer | Generative AI Enthusiast | Full-Stack Developer
+### 🚀 Aspiring ML Engineer 
 
 I am a **3rd-year Computer Science student at Don Bosco Institute of Technology (DBIT)**, passionate about building AI-driven solutions that bridge the gap between complex research and real-world utility. My goal is to drive innovation in Machine Learning, specifically targeting high-impact roles at companies like **NVIDIA**.
 
